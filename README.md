@@ -14,5 +14,5 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 WeTez|✖|✖|✖|✔|✔|✖|✖|
 xtez.io |✖|✖|✖|✖|✖|✖|✔|
-[Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖||
+[Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 
