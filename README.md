@@ -4,9 +4,9 @@ I just wanted to create a list of Tezos wallets. Do your own due dilligence befo
 
 ### Tezos wallets
 
-Wallet | Linux | OSX | Android | iPhone | Chrome |
------------- | ------------- | ------------ |------------ |------------ |------------ |------------ |
-[TezBox](https://tezbox.github.io/)||||||
+Wallet | Linux | Windows | OSX | Android | iPhone | Chrome |
+------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
+[TezBox](https://tezbox.github.io/)|&10006;|&10006;|&10006;|&10004;|&10004;|&10004;|
 ||||||
 ||||||
 ||||||
