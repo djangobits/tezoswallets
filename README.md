@@ -9,9 +9,9 @@ Note, that some of these wallets are still under heavy development and might run
 
 Wallet | Linux | Windows | OSX | Android | iPhone | Chrome |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
-[TezBox](https://tezbox.github.io/)|&10006;|&10006;|&10006;|&10004;|&10004;|&10004;|
-[Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|&10004;|&10004;|&10004;|&10006;|&10006;|&10006;|
-[Tezos.blue](https://tezos.blue/)|&10006;|&10004;|&10006;|&10004;|&10004;|&10006;|
+[TezBox](https://tezbox.github.io/)|&10006;|&10006;|&10006;|✔|✔|✔|
+[Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|✔|✔|✔|&10006;|&10006;|&10006;|
+[Tezos.blue](https://tezos.blue/)|&10006;|✔|&10006;|✔|✔|&10006;|
 |||||||
 |||||||
 |||||||
