@@ -7,13 +7,12 @@ I just wanted to create a list of Tezos wallets. Do your own due dilligence befo
 
 Note, that some of these wallets are still under heavy development and might run on alphanet, zeronet or other non betanet instances.
 
-Wallet | Linux | Windows | OSX | Android | iPhone | Chrome |
+Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
-[TezBox](https://tezbox.github.io/)|&10006;|&10006;|&10006;|✔|✔|✔|
-[Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|✔|✔|✔|&10006;|&10006;|&10006;|
-[Tezos.blue](https://tezos.blue/)|&10006;|✔|&10006;|✔|✔|&10006;|
-|||||||
-|||||||
-|||||||
-|||||||
+[TezBox](https://tezbox.github.io/)|✖|✖|✖|✔|✔|✔|✖|
+[Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|✔|✔|✔|✖|✖|✖|✖|
+[Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
+WeTez|✖|✖|✖|✔|✔|✖|✖|
+xtez.io |✖|✖|✖|✖|✖|✖|✔|
+[Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖||
 
