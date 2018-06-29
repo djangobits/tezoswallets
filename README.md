@@ -18,3 +18,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [xtez.io](https://xtez.io/wallet) |✖|✖|✖|✖|✖|✖|✔|
 
 
+
+
+Any updates? Feel free to create a pull request or contact me on Twitter, Telegram or Riot (tezos:matrix.org): @djangobits
+
