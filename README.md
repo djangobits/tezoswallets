@@ -20,5 +20,5 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 
 
 
-Any updates? Feel free to create a pull request or contact me on Twitter, Telegram or Riot (tezos:matrix.org): @djangobits
+Any updates to this list? Feel free to create a pull request or contact me on Twitter, Telegram or Riot (tezos:matrix.org): @djangobits
 
