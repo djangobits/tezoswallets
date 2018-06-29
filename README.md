@@ -1,4 +1,4 @@
-### A simple list of available Tezos wallets
+### A simple list of ~~available~~ Tezos wallets
 
 I just wanted to create a list of existing or future Tezos wallets. Do your own due dilligence before trusting any wallet with a private key or other secrets!
 
