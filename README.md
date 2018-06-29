@@ -10,7 +10,7 @@ Note, that some of these wallets are still not finished and under heavy developm
 
 Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
-[TezBox](https://tezbox.github.io/)|✖|✖|✖|✔|✔|✔|✖|
+[TezBox](https://tezbox.github.io/)|✖|✖|✖|✔|✔|✔|✔|
 [Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|✔|✔|✔|✖|✖|✖|✖|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
