@@ -16,8 +16,10 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](https://twitter.com/Wetez_wallet)|✖|✖|✖|✔|✔|✖|✖|
 [xtez.io](https://xtez.io/wallet) |✖|✖|✖|✖|✖|✖|✔|
+[kukai.app](https://kukai.app) |✖|✖|✖|✖|✖|✖|✔|
 
 
+## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. DYOR!
 
 
 Any updates to this list? Feel free to create a pull request or contact me on Twitter, Telegram or Riot (tezos:matrix.org): @djangobits
