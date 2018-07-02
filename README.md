@@ -16,7 +16,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](https://twitter.com/Wetez_wallet)|✖|✖|✖|✔|✔|✖|✖|
 [xtez.io](https://xtez.io/wallet) |✖|✖|✖|✖|✖|✖|✔|
-[kukai.app](https://kukai.app) |✖|✖|✖|✖|✖|✖|✔|
+[kukai.app](https://kukai.app) |✔|✔|✔|✖|✖|✖|✔|
 [TezWallet](http://tezwallet.cc/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
