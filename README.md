@@ -19,7 +19,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [kukai.app](https://kukai.app) |✖|✖|✖|✖|✖|✖|✔|
 [TezWallet](http://tezwallet.cc/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
-[Tezbridge](https://www.tezbridge.com/) |✖|✖|✖|✖|✖|✖|✔|
+[Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR!
