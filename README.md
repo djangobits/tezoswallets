@@ -20,9 +20,10 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [TezWallet](http://tezwallet.cc/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
+[Tezzerwallet](https://github.com/Tezzerwallet/tezzer-v1.0.4)  |✖|✔|✖|✖|✖|✖|✖|
 
 
-## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR!
+## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
 
 
 Any updates to this list? Feel free to create a pull request or contact me on Twitter, Telegram or Riot (tezos:matrix.org): @djangobits
