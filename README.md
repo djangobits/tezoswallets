@@ -21,6 +21,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
 [Tezzerwallet](https://github.com/Tezzerwallet/tezzer-v1.0.4)  |✖|✔|✖|✖|✖|✖|✖|
+[T3wallet](https://t3wallet.com) |✖|✖|✖|✖|✖|✖|✔|
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
