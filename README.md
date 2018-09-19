@@ -12,6 +12,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
 [TezBox](https://tezbox.github.io/)|✖|✖|✖|✔|✔|✔|✔|
 [Cryptonomic](https://github.com/Cryptonomic/Tezos-Wallet)|✔|✔|✔|✖|✖|✖|✖|
+[CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✖|✖|✖|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](https://twitter.com/Wetez_wallet)|✖|✖|✖|✔|✔|✖|✖|
@@ -21,7 +22,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
 [Tezzerwallet](https://github.com/Tezzerwallet/tezzer-v1.0.4)  |✖|✔|✖|✖|✖|✖|✖|
 [T3wallet](https://t3wallet.com) |✖|✖|✖|✖|✖|✖|✔|
-[CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✖|✖|✖|
+
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
