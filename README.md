@@ -15,7 +15,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✖|✖|✖|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
-[WeTez](https://twitter.com/Wetez_wallet)|✖|✖|✖|✔|✔|✖|✖|
+[WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
 [kukai.app](https://kukai.app) |✔|✔|✔|✖|✖|✖|✔|
 [TezWallet](http://tezwallet.cc/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
