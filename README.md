@@ -10,7 +10,7 @@ Note, that some of these wallets are still not finished and under heavy developm
 
 Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
-[TezBox](https://tezbox.github.io/)|✖|✖|✖|✔|✔|✔|✔|
+[TezBox](https://tezbox.github.io/)|✖|✔|✔|✔|✔|✔|✔|
 [Cryptonomic Galleon](https://github.com/Cryptonomic/Deployments/wiki/Galleon:-Releases)|✔|✔|✔|✖|✖|✖|✖|
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✖|✖|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖|
