@@ -22,7 +22,9 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge-web) |✖|✖|✖|✖|✖|✖|✔|
 [Tezzerwallet](https://github.com/Tezzerwallet/tezzer-v1.0.4)  |✖|✔|✖|✖|✖|✖|✖|
-[Fornax](https://github.com/keefertaylor/Fornax) |✖|✖|✖|✖|✔|✖|✖|
+[Fornax](https://github.com/keefertaylor/Fornax)|✖|✖|✖|✖|✔|✖|✖|
+[Huobi Wallet](https://www.huobiwallet.com/)|✖|✖|✖|✔|✔|✖|✖|
+[Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
