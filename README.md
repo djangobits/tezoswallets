@@ -25,6 +25,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Fornax](https://github.com/keefertaylor/Fornax)|✖|✖|✖|✖|✔|✖|✖|
 [Huobi Wallet](https://www.huobiwallet.com/)|✖|✖|✖|✔|✔|✖|✖|
 [Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|
+[Simplestaking](https://simplestaking.com/)|✖|✔|✖|✖|✖|✖|✔|
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
