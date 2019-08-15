@@ -21,7 +21,6 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge-web) |✖|✖|✖|✖|✖|✖|✔|
-[Tezzerwallet](https://github.com/Tezzerwallet/tezzer-v1.0.4)  |✖|✔|✖|✖|✖|✖|✖|
 [Fornax](https://github.com/keefertaylor/Fornax)|✖|✖|✖|✖|✔|✖|✖|
 [Huobi Wallet](https://www.huobiwallet.com/)|✖|✖|✖|✔|✔|✖|✖|
 [Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|
