@@ -14,6 +14,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Cryptonomic Galleon](https://github.com/Cryptonomic/Deployments/wiki/Galleon:-Releases)|✔|✔|✔|✖|✖|✖|✖|
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✔|✖|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖|
+[Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
