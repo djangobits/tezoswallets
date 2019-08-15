@@ -12,13 +12,13 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 ------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |
 [TezBox](https://tezbox.github.io/)|✖|✔|✔|✔|✔|✔|✔|
 [Cryptonomic Galleon](https://github.com/Cryptonomic/Deployments/wiki/Galleon:-Releases)|✔|✔|✔|✖|✖|✖|✖|
+[kukai.app](https://kukai.app) |✔|✔|✔|✖|✖|✖|✔|
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✔|✖|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖|
 [Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
-[kukai.app](https://kukai.app) |✔|✔|✔|✖|✖|✖|✔|
 [TezWallet](http://tezwallet.cc/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezlet](http://www.tezlet.io/) |✖|✖|✖|✔|✔|✖|✖|
 [Tezbridge](https://github.com/tezbridge/tezbridge.github.io) |✖|✖|✖|✖|✖|✖|✔|
