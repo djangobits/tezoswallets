@@ -16,7 +16,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✔|✖|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖|
 [Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔|
-[Magnum Wallet[(https://magnumwallet.co/)|✖|✖|✖|✔|✖|✖|✔|
+[Magnum Wallet](https://magnumwallet.co/)|✖|✖|✖|✔|✖|✖|✔|
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖|
