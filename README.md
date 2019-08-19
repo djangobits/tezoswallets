@@ -21,7 +21,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |Comment|Supports 
 [Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔||✖|
 [Magnum Wallet](https://magnumwallet.co/)|✖|✖|✖|✔|✖|✖|✔||✖|
 [Bakechain](https://bakechain.github.io/)|✖|✔|✖|✖|✖|✖|✖|Baking application, developed by Stephen Andrews from TezTech|-|
-[Tezbridge](https://github.com/tezbridge/tezbridge-web) |✖|✖|✖|✖|✖|✖|✔|developed by catsigma|-|
+[Tezbridge](https://github.com/tezbridge/tezbridge-web) |✖|✖|✖|✖|✖|✖|✔|tool to interact with applications on the Tezos blockchain, developed by catsigma|-|
 [Fornax](https://github.com/keefertaylor/Fornax)|✖|✖|✖|✖|✔|✖|✖||✖|
 [Huobi Wallet](https://www.huobiwallet.com/)|✖|✖|✖|✔|✔|✖|✖|developed by Huobi, Huobi's official wallet|✖|
 [Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|developed by Trust Wallet, Binance's official wallet|✖|
