@@ -14,6 +14,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |
 [Cryptonomic Galleon](https://github.com/Cryptonomic/Deployments/wiki/Galleon:-Releases)|✔|✔|✔|✖|✖|✖|✖|
 [kukai.app](https://kukai.app) |✖|✖|✖|✖|✖|✖|✔|
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✔|✖|✖|
+[Tezzet](https://play.google.com/store/apps/details?id=rio.tezos.tezzet)|✖|✖|✖|✔|✖|✖|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖|
 [Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔|
 [Magnum Wallet](https://magnumwallet.co/)|✖|✖|✖|✔|✖|✖|✔|
