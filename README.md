@@ -9,7 +9,7 @@ Note, that some of these wallets are still not finished and under heavy developm
 
 
 Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |Comment|Supports delegation|
------------- | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |------------ |
+------------ | ------------ | ------------- | ------------ |------------ |------------ |------------ |------------ |------------ |------------ |
 [TezBox](https://tezbox.github.io/)|✖|✔|✔|✔|✔|✔|✔|Security Audited, developed by TezosTech|✔|
 [Cryptonomic Galleon](https://github.com/Cryptonomic/Deployments/wiki/Galleon:-Releases)|✔|✔|✔|✖|✖|✖|✖|Security Audited, developed by Cryptonomic|✔|
 [kukai.app](https://kukai.app) |✖|✖|✖|✖|✖|✖|✔||✔|
