@@ -26,6 +26,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |Comment|Supports 
 [Huobi Wallet](https://www.huobiwallet.com/)|✖|✖|✖|✔|✔|✖|✖|developed by Huobi, Huobi's official wallet|✖|
 [Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|developed by Trust Wallet, Binance's official wallet|✖|
 [Simplestaking](https://simplestaking.com/)|✖|✔|✖|✖|✖|✖|✔||-|
+[Atomex](https://atomex.me/)|✖|✔|✖|✖|✖|✖|✖|Built-in atomic swap exchange|✖|
 
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
