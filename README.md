@@ -16,7 +16,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |Comment|Supports 
 [Tezos.blue](https://tezos.blue/)|✖|✔|✖|✔|✔|✖|✖||✔|
 [WeTez](http://www.wetez.io/)|✖|✖|✖|✔|✔|✖|✖||✔|
 [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)|✖|✖|✖|✔|✔|✖|✖|developed by Nomadic Labs|✖|
-[Tezzet](https://play.google.com/store/apps/details?id=rio.tezos.tezzet)|✔|✔|✔|✔|✖|✖|✖|developed by Tezos.Rio|✖|
+[Tezzet](http://tezos.rio/carteira.html)|✔|✔|✔|✔|✖|✖|✖|developed by Tezos.Rio|✖|
 [Atomic Wallet](https://atomicwallet.io/)|✔|✔|✔|✔|✔|✖|✖||✖|
 [Guarda Wallet](https://guarda.co/)|✔|✔|✔|✔|✔|✔|✔||✖|
 [Magnum Wallet](https://magnumwallet.co/)|✖|✖|✖|✔|✖|✖|✔||✖|
