@@ -27,7 +27,7 @@ Wallet | Linux | Windows | OSX | Android | iOS | Chrome | Web |Comment|Supports 
 [Trust Wallet](https://trustwallet.com/)|✖|✖|✔|✔|✔|✖|✖|developed by Trust Wallet, Binance's official wallet|✖|
 [Simplestaking](https://simplestaking.com/)|✖|✔|✖|✖|✖|✖|✔||-|
 [Atomex](https://atomex.me/)|✖|✔|✖|✖|✖|✖|✖|Built-in atomic swap exchange|✔|
-
+[EmailTezos](https://emailtezos.com/)|✖|✖|✖|✖|✖|✖|✔|email-based, non-custodial wallet with support for baking, sending tokens over email and FA1.2 tokens|✔|
 
 ## Take care! I did not verify the legitimacy or functions of these wallets, nor do I recommend to use them. I only collected the information! DYOR! Some might be malfuctioning or even be scamming attempts!
 
